@@ -1,1 +1,1 @@
-# haixing
+# visualization project homepage
